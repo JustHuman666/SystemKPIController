@@ -6,8 +6,7 @@ namespace SystemKPIController
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");//here will be our project))0)
-            //here will be too
+            Console.WriteLine("Hello World!");//console.WriteLine
             Console.ReadKey();
         }
     }
